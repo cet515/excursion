@@ -5,7 +5,7 @@
   color: white;
   align: center;
 }
-h2 {
+#download {
   color: Aquamarine;
   font-size: 16px;
 }
@@ -15,9 +15,14 @@ body {
   font-family: Verdana;
   font-weight: normal;
 }
-#travel {
+.travel {
   font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
   color: white;
+}
+#excursion {
+  font-family: Verdana;
+  font-size: 21px;
+  color:gray;
 }
