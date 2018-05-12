@@ -1,4 +1,4 @@
-h1 {
+#discover {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
@@ -14,4 +14,10 @@ body {
   text-align: center;
   font-family: Verdana;
   font-weight: normal;
+}
+#travel {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
 }
